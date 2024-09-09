@@ -1,7 +1,5 @@
 # **Lecture 1: Introduction to the Internet and Networking Concepts**
 
----
-
 #### **Table of Contents**
 - [**Lecture 1: Introduction to the Internet and Networking Concepts**](#lecture-1-introduction-to-the-internet-and-networking-concepts)
       - [**Table of Contents**](#table-of-contents)
@@ -15,8 +13,6 @@
       - [**Web Server:**](#web-server)
     - [5. Uniform Resource Locator (URL) ](#5-uniform-resource-locator-url-)
     - [6. Web Hosting Services ](#6-web-hosting-services-)
-
----
 
 ### 1. Overview of the Internet <a id="overview-of-the-internet"></a>
 
@@ -38,8 +34,6 @@ The Internet is a vast global network of computers that communicate with one ano
 - **File Transfer Protocol (FTP):** Used for transferring files between systems.
 - **Social Media, Streaming, and E-Commerce:** Modern applications that rely on the Internet.
 
----
-
 ### 2. Basic Concepts of Client-Server Networks <a id="basic-concepts-of-client-server-networks"></a>
 
 **Definition:**  
@@ -58,8 +52,6 @@ A client-server network is a model in which a client (typically a user’s devic
 **Types of Client-Server Networks:**
 - **Two-tier Architecture:** Direct communication between client and server.
 - **Three-tier Architecture:** Introduction of an intermediary, often a database server, between the client and the primary server.
-
----
 
 ### 3. Local Area Network (LAN) and Wide Area Network (WAN) <a id="local-area-network-lan-and-wide-area-network-wan"></a>
 
@@ -84,8 +76,6 @@ A client-server network is a model in which a client (typically a user’s devic
 - The Internet.
 - Corporate WANs that connect offices in different cities or countries.
 
----
-
 ### 4. Web Browsers and Web Servers <a id="web-browsers-and-web-servers"></a>
 
 #### **Web Browser:**
@@ -104,8 +94,6 @@ A client-server network is a model in which a client (typically a user’s devic
   - **Store Website Content:** Web servers store files such as HTML, CSS, JavaScript, images, and videos.
   - **Security Features:** Web servers often include security features like SSL certificates for HTTPS.
 
----
-
 ### 5. Uniform Resource Locator (URL) <a id="uniform-resource-locator-url"></a>
 
 **Definition:**  
@@ -120,8 +108,6 @@ A URL is a specific type of URI (Uniform Resource Identifier) that provides the 
 
 **Example of a URL:**
 `https://www.example.com/products?category=electronics`
-
----
 
 ### 6. Web Hosting Services <a id="web-hosting-services"></a>
 
@@ -142,7 +128,3 @@ A web hosting service provides the technology and infrastructure required to mak
 
 **Examples of Web Hosting Providers:**
 - Bluehost, HostGator, GoDaddy, AWS, DigitalOcean.
-
----
-
-This detailed version provides more depth in each section, making it easier to understand and reference essential networking concepts. Let me know if you need further clarification or additional topics!
