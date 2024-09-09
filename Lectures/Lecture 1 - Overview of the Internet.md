@@ -1,20 +1,20 @@
-### **Lecture 1: Introduction to the Internet and Networking Concepts**
+# **Lecture 1: Introduction to the Internet and Networking Concepts**
 
 ---
 
 #### **Table of Contents**
 - [**Lecture 1: Introduction to the Internet and Networking Concepts**](#lecture-1-introduction-to-the-internet-and-networking-concepts)
-  - [**Table of Contents**](#table-of-contents)
-- [1. Overview of the Internet ](#1-overview-of-the-internet-)
-- [2. Basic Concepts of Client-Server Networks ](#2-basic-concepts-of-client-server-networks-)
-- [3. Local Area Network (LAN) and Wide Area Network (WAN) ](#3-local-area-network-lan-and-wide-area-network-wan-)
-  - [**Local Area Network (LAN):**](#local-area-network-lan)
-  - [**Wide Area Network (WAN):**](#wide-area-network-wan)
-- [4. Web Browsers and Web Servers ](#4-web-browsers-and-web-servers-)
-  - [**Web Browser:**](#web-browser)
-  - [**Web Server:**](#web-server)
-- [5. Uniform Resource Locator (URL) ](#5-uniform-resource-locator-url-)
-- [6. Web Hosting Services ](#6-web-hosting-services-)
+      - [**Table of Contents**](#table-of-contents)
+    - [1. Overview of the Internet ](#1-overview-of-the-internet-)
+    - [2. Basic Concepts of Client-Server Networks ](#2-basic-concepts-of-client-server-networks-)
+    - [3. Local Area Network (LAN) and Wide Area Network (WAN) ](#3-local-area-network-lan-and-wide-area-network-wan-)
+      - [**Local Area Network (LAN):**](#local-area-network-lan)
+      - [**Wide Area Network (WAN):**](#wide-area-network-wan)
+    - [4. Web Browsers and Web Servers ](#4-web-browsers-and-web-servers-)
+      - [**Web Browser:**](#web-browser)
+      - [**Web Server:**](#web-server)
+    - [5. Uniform Resource Locator (URL) ](#5-uniform-resource-locator-url-)
+    - [6. Web Hosting Services ](#6-web-hosting-services-)
 
 ---
 
