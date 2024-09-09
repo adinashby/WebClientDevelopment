@@ -12,7 +12,7 @@
   - [5. Uniform Resource Locator (URL) ](#5-uniform-resource-locator-url-)
   - [6. Web Hosting Services ](#6-web-hosting-services-)
 
-### 1. Overview of the Internet
+### 1. [Overview of the Internet ](#1-overview-of-the-internet-)
 
 **Definition:**  
 The Internet is a vast global network of computers that communicate with one another, enabling the sharing of resources and information.
@@ -32,7 +32,7 @@ The Internet is a vast global network of computers that communicate with one ano
 - **File Transfer Protocol (FTP):** Used for transferring files between systems.
 - **Social Media, Streaming, and E-Commerce:** Modern applications that rely on the Internet.
 
-### 2. Basic Concepts of Client-Server Networks <a id="basic-concepts-of-client-server-networks"></a>
+### [2. Basic Concepts of Client-Server Networks ](#2-basic-concepts-of-client-server-networks-)
 
 **Definition:**  
 A client-server network is a model in which a client (typically a user’s device) makes requests to a server, which processes the requests and returns the appropriate response.
@@ -51,7 +51,7 @@ A client-server network is a model in which a client (typically a user’s devic
 - **Two-tier Architecture:** Direct communication between client and server.
 - **Three-tier Architecture:** Introduction of an intermediary, often a database server, between the client and the primary server.
 
-### 3. Local Area Network (LAN) and Wide Area Network (WAN) <a id="local-area-network-lan-and-wide-area-network-wan"></a>
+### [3. Local Area Network (LAN) and Wide Area Network (WAN) ](#3-local-area-network-lan-and-wide-area-network-wan-)
 
 #### **Local Area Network (LAN):**
 - **Definition:** A LAN is a network that connects computers and devices within a confined geographical area such as a home, office, or campus.
@@ -74,7 +74,7 @@ A client-server network is a model in which a client (typically a user’s devic
 - The Internet.
 - Corporate WANs that connect offices in different cities or countries.
 
-### 4. Web Browsers and Web Servers <a id="web-browsers-and-web-servers"></a>
+### [4. Web Browsers and Web Servers ](#4-web-browsers-and-web-servers-)
 
 #### **Web Browser:**
 - **Definition:** A web browser is software that allows users to access and interact with websites on the Internet.
@@ -92,7 +92,7 @@ A client-server network is a model in which a client (typically a user’s devic
   - **Store Website Content:** Web servers store files such as HTML, CSS, JavaScript, images, and videos.
   - **Security Features:** Web servers often include security features like SSL certificates for HTTPS.
 
-### 5. Uniform Resource Locator (URL) <a id="uniform-resource-locator-url"></a>
+### [5. Uniform Resource Locator (URL) ](#5-uniform-resource-locator-url-)
 
 **Definition:**  
 A URL is a specific type of URI (Uniform Resource Identifier) that provides the address of a resource on the Internet.
@@ -107,7 +107,7 @@ A URL is a specific type of URI (Uniform Resource Identifier) that provides the 
 **Example of a URL:**
 `https://www.example.com/products?category=electronics`
 
-### 6. Web Hosting Services <a id="web-hosting-services"></a>
+### [6. Web Hosting Services ](#6-web-hosting-services-)
 
 **Definition:**  
 A web hosting service provides the technology and infrastructure required to make a website accessible over the Internet.
