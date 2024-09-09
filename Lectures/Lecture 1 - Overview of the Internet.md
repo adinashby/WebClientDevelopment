@@ -14,7 +14,7 @@
     - [5. Uniform Resource Locator (URL) ](#5-uniform-resource-locator-url-)
     - [6. Web Hosting Services ](#6-web-hosting-services-)
 
-### 1. Overview of the Internet <a id="overview-of-the-internet"></a>
+### [1. Overview of the Internet ](#1-overview-of-the-internet-)
 
 **Definition:**  
 The Internet is a vast global network of computers that communicate with one another, enabling the sharing of resources and information.
