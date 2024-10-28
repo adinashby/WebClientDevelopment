@@ -16,8 +16,6 @@
    3.5 [Viewing Web Storage Content](#35-viewing-web-storage-content)  
 4. [Using IndexedDB](#4-using-indexeddb)
 
----
-
 ## 1. Storing Data with Client-side Data Storage
 
 Client-side data storage refers to the various ways JavaScript can store data in the user’s browser. It allows you to save data locally, so it persists between page loads and browser sessions. The main methods of client-side data storage in JavaScript include:
@@ -25,8 +23,6 @@ Client-side data storage refers to the various ways JavaScript can store data in
 - **Cookies**: Small pieces of data stored in key-value pairs, often used for session management and user preferences.
 - **Web Storage API**: Comprises two types of storage: `localStorage` and `sessionStorage`, used to store data as strings.
 - **IndexedDB**: A low-level API for storing large amounts of structured data, supporting transactions and queries.
-
----
 
 ## 2. Using Cookies
 
@@ -74,8 +70,6 @@ let username = getCookie('username');
 - **Size Limit**: Each cookie can only store up to 4KB of data.
 - **Security**: Cookies are sent with every HTTP request, which can affect performance and privacy.
 - **Expiration**: Cookies are automatically deleted after their expiration date or when the user clears their browser data.
-
----
 
 ## 3. Using Web Storage API
 
@@ -136,8 +130,6 @@ let userData = JSON.parse(localStorage.getItem('user'));
 ### 3.5 Viewing Web Storage Content
 
 You can view the contents of `localStorage` or `sessionStorage` directly from the browser’s developer tools under the **Application** tab in Chrome or **Storage** in Firefox.
-
----
 
 ## 4. Using IndexedDB
 
