@@ -1,4 +1,4 @@
-# **Lecture 3: Introduction to JavaScript**
+# **Lecture 4: Client-Side Storage**
 
 ## Table of Contents
 
