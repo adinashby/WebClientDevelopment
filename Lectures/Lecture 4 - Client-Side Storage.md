@@ -202,8 +202,3 @@ request.onsuccess = function(event) {
   ```javascript
   store.delete(1);
   ```
-
----
-
-Now you have a comprehensive guide to client-side data storage using JavaScript, including cookies, Web Storage API, and IndexedDB.
-```
